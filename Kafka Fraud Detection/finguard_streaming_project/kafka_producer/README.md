@@ -64,7 +64,7 @@ RANDOM_SEED=42
 ## Running the Producer
 
 ```bash
-python producer.py
+python producer_normal.py
 ```
 
 The simulator will:
