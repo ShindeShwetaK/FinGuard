@@ -44,7 +44,7 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Gmail account
-EMAIL = "youremail@gmail.com"
+EMAIL = "12shindshw@gmail.com"
 APP_PASSWORD = gmail_api_key
 
 # Receiver
